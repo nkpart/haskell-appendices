@@ -6,6 +6,8 @@ Requires:
 * cabal file section
 * hlint runner `test/HLint.hs`
 
+Example:
+
     Test suite hlint: RUNNING...
     src/Example.hs:4:1: Error: Eta reduce
     Found:
